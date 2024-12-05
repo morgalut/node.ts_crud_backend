@@ -5,7 +5,7 @@ This project was created with [express-generator-typescript](https://github.com/
 
 ## Available Scripts
 
-### `npm run dev` or `npm run dev:hot` (hot reloading)
+### `nodemon src\index.ts` or `npm run dev:hot` (hot reloading)
 
 Run the server in development mode.
 
